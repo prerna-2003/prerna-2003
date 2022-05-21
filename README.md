@@ -2,7 +2,7 @@
 - 👀 Interested in solving puzzles,coding,contributing to open source
 - 🌱 currently learning SPARQL , apche Jena
 - 💞️ 
-- 📫 Reache me @ prerna_28062yahoo.com
+- 📫 Reache me @ prerna_2806@yahoo.com
 
 <!---
 prerna-2003/prerna-2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
